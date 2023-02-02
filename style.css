@@ -15,8 +15,40 @@
   background-repeat: no-repeat;
 }
 .title-first {
-  font-size: 3.5rem;
+  font-size: 4rem;
 }
 .title-second {
   font-size: 3rem;
+}
+.form {
+  position: relative;
+}
+.form .fa-search {
+  top: 20px;
+  left: 20px;
+  color: #ffc107;
+  position: absolute;
+}
+.form span {
+  top: 14px;
+  right: 18px;
+  padding: 2px;
+  position: absolute;
+  border-left: 2px solid #ffc107;
+}
+.left-pan {
+  padding-left: 8px;
+}
+.left-pan i {
+  cursor: pointer;
+  padding-left: 10px;
+}
+.form-input {
+  height: 55px;
+  text-indent: 34px;
+  border-radius: 10px;
+}
+.form-input:focus {
+  border: none;
+  box-shadow: none;
 }
