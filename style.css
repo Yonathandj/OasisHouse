@@ -52,3 +52,9 @@
   border: none;
   box-shadow: none;
 }
+.card {
+  cursor: pointer;
+}
+.home-desc {
+  font-size: 1.2rem;
+}
