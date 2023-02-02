@@ -4,7 +4,7 @@
   font-family: "Inter", sans-serif;
 }
 .navbar {
-  border-bottom: 2px solid #ffc107;
+  border-bottom: 2px solid white;
 }
 .bg {
   background-size: cover;
@@ -13,11 +13,9 @@
   background-position: center;
   background-repeat: no-repeat;
 }
-.title-first {
-  font-size: 4rem;
-}
+.title-first,
 .title-second {
-  font-size: 3rem;
+  font-size: 4rem;
 }
 .form {
   position: relative;
